@@ -1,0 +1,56 @@
+C:\Users\User\AppData\Local\Temporary Projects\Analisis2\bin\Debug\Analisis2.exe
+C:\Users\User\AppData\Local\Temporary Projects\Analisis2\bin\Debug\Analisis2.pdb
+C:\Users\User\AppData\Local\Temporary Projects\Analisis2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\AppData\Local\Temporary Projects\Analisis2\obj\x86\Debug\Analisis2.Form1.resources
+C:\Users\User\AppData\Local\Temporary Projects\Analisis2\obj\x86\Debug\Analisis2.Properties.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\Analisis2\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\User\AppData\Local\Temporary Projects\Analisis2\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\User\AppData\Local\Temporary Projects\Analisis2\obj\x86\Debug\Analisis2.exe
+C:\Users\User\AppData\Local\Temporary Projects\Analisis2\obj\x86\Debug\Analisis2.pdb
+C:\Users\User\AppData\Local\Temporary Projects\Analisis2\obj\x86\Debug\Analisis2.Registro.resources
+E:\Analisis2\Analisis2\obj\x86\Debug\Analisis2.exe
+E:\Analisis2\Analisis2\obj\x86\Debug\Analisis2.pdb
+E:\Analisis2\Analisis2\bin\Debug\Analisis2.exe
+E:\Analisis2\Analisis2\bin\Debug\Analisis2.pdb
+E:\Analisis2\Analisis2\obj\x86\Debug\Analisis2.Form1.resources
+E:\Analisis2\Analisis2\obj\x86\Debug\Analisis2.Properties.Resources.resources
+E:\Analisis2\Analisis2\obj\x86\Debug\Analisis2.Registrar_Cliente.resources
+E:\Analisis2\Analisis2\obj\x86\Debug\Analisis2.Registro.resources
+E:\Analisis2\Analisis2\obj\x86\Debug\Analisis2.csproj.GenerateResource.Cache
+C:\Users\TOSHIBA\Desktop\Analisis2\Analisis2\obj\x86\Debug\Analisis2.exe
+C:\Users\TOSHIBA\Desktop\Analisis2\Analisis2\obj\x86\Debug\Analisis2.pdb
+C:\Users\TOSHIBA\Desktop\Analisis2\Analisis2\bin\Debug\Analisis2.exe
+C:\Users\TOSHIBA\Desktop\Analisis2\Analisis2\bin\Debug\Analisis2.pdb
+C:\Users\TOSHIBA\Desktop\Analisis2\Analisis2\obj\x86\Debug\Analisis2.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\Analisis2\Analisis2\obj\x86\Debug\Analisis2.Form1.resources
+C:\Users\TOSHIBA\Desktop\Analisis2\Analisis2\obj\x86\Debug\Analisis2.ingresos.resources
+C:\Users\TOSHIBA\Desktop\Analisis2\Analisis2\obj\x86\Debug\Analisis2.Properties.Resources.resources
+C:\Users\TOSHIBA\Desktop\Analisis2\Analisis2\obj\x86\Debug\Analisis2.Registar_Proveedor.resources
+C:\Users\TOSHIBA\Desktop\Analisis2\Analisis2\obj\x86\Debug\Analisis2.Registrar_Cliente.resources
+C:\Users\TOSHIBA\Desktop\Analisis2\Analisis2\obj\x86\Debug\Analisis2.Registrar_Factura.resources
+C:\Users\TOSHIBA\Desktop\Analisis2\Analisis2\obj\x86\Debug\Analisis2.Registrar_Producto.resources
+C:\Users\TOSHIBA\Desktop\Analisis2\Analisis2\obj\x86\Debug\Analisis2.Registro.resources
+C:\Users\TOSHIBA\Desktop\Analisis2\Analisis2\obj\x86\Debug\Analisis2.csproj.GenerateResource.Cache
+C:\Users\TOSHIBA\Documents\4to ciclo\Analisis2\Analisis2\Analisis2\obj\x86\Debug\Analisis2.exe
+C:\Users\TOSHIBA\Documents\4to ciclo\Analisis2\Analisis2\Analisis2\obj\x86\Debug\Analisis2.pdb
+C:\Users\User\Desktop\Analisis2\Analisis2\obj\x86\Debug\Analisis2.exe
+C:\Users\User\Desktop\Analisis2\Analisis2\obj\x86\Debug\Analisis2.pdb
+C:\Users\User\Desktop\Analisss2\Analisis2\Analisis2\obj\x86\Debug\Analisis2.exe
+C:\Users\User\Desktop\Analisss2\Analisis2\Analisis2\obj\x86\Debug\Analisis2.pdb
+C:\Users\User\Desktop\Analisss2\Analisis2\Analisis2\bin\Debug\Analisis2.exe
+C:\Users\User\Desktop\Analisss2\Analisis2\Analisis2\bin\Debug\Analisis2.pdb
+C:\Users\User\Desktop\Analisss2\Analisis2\Analisis2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\Analisss2\Analisis2\Analisis2\obj\x86\Debug\Analisis2.Form1.resources
+C:\Users\User\Desktop\Analisss2\Analisis2\Analisis2\obj\x86\Debug\Analisis2.Proveedor.resources
+C:\Users\User\Desktop\Analisss2\Analisis2\Analisis2\obj\x86\Debug\Analisis2.Compras.resources
+C:\Users\User\Desktop\Analisss2\Analisis2\Analisis2\obj\x86\Debug\Analisis2.Properties.Resources.resources
+C:\Users\User\Desktop\Analisss2\Analisis2\Analisis2\obj\x86\Debug\Analisis2.Registrar_Cliente.resources
+C:\Users\User\Desktop\Analisss2\Analisis2\Analisis2\obj\x86\Debug\Analisis2.Registrar_Factura.resources
+C:\Users\User\Desktop\Analisss2\Analisis2\Analisis2\obj\x86\Debug\Analisis2.Registrar_Producto.resources
+C:\Users\User\Desktop\Analisss2\Analisis2\Analisis2\obj\x86\Debug\Analisis2.Registro.resources
+C:\Users\User\Desktop\Analisss2\Analisis2\Analisis2\obj\x86\Debug\Analisis2.Reportes.resources
+C:\Users\User\Desktop\Analisss2\Analisis2\Analisis2\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\User\Desktop\Analisss2\Analisis2\Analisis2\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\User\Desktop\Analisss2\Analisis2\Analisis2\obj\x86\Debug\Analisis2.Reportes_Producto.resources
+C:\Users\User\Desktop\Analisss2\Analisis2\Analisis2\obj\x86\Debug\Analisis2.Reporte_Compras.resources
+C:\Users\User\Desktop\Analisss2\Analisis2\Analisis2\obj\x86\Debug\Analisis2.Resporte_Factura.resources
